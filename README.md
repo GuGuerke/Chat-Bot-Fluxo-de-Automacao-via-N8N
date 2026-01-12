@@ -1,4 +1,4 @@
-# N8N-Leads-IA-Workflow
+# Chat Bot: Fluxo de Automação via N8N
 
 Workflow automatizado com IA (OpenAi) para Bot de Whatsapp especializado na retenção de Leads!
 
