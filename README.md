@@ -1,44 +1,44 @@
-# 🤖 Chatbot Inteligente para WhatsApp  
-### Fluxo de Automação com N8N + OpenAI
+# 🤖 Intelligent WhatsApp Chatbot  
+### Automation Workflow with N8N + OpenAI
 
-Este projeto apresenta um **chatbot inteligente para WhatsApp**, desenvolvido para **retenção de leads e aquisição de novos clientes**, atuando de forma automatizada desde o primeiro contato do usuário com a empresa.
+This project presents an **intelligent WhatsApp chatbot**, developed for **lead retention and new customer acquisition**, operating automatically from the user’s very first interaction with the company.
 
-A partir de **gatilhos identificados no site**, o bot inicia automaticamente a conversa com o visitante no WhatsApp, compreende sua necessidade e o direciona para o fluxo mais adequado — seja informações, qualificação comercial, proposta ou encaminhamento para atendimento humano.
+Based on **triggers identified on the website**, the bot automatically starts a conversation with the visitor on WhatsApp, understands their needs, and directs them to the most appropriate flow — whether for information, sales qualification, proposals, or transfer to human support.
 
-Mais do que um simples bot de respostas, o workflow funciona como um **pré-atendimento inteligente**, reduzindo atritos na jornada do cliente e evitando a perda de oportunidades por demora ou falta de resposta.
-
----
-
-## 🧠 Como funciona o fluxo
-
-- Captura de leads via gatilhos do site  
-- Início automático da conversa no WhatsApp  
-- Interpretação de intenção com IA (OpenAI)  
-- Qualificação dinâmica do lead  
-- Direcionamento inteligente conforme a necessidade  
-- Escalabilidade no atendimento sem perder personalização  
+More than just a simple response bot, the workflow acts as an **intelligent pre-sales assistant**, reducing friction in the customer journey and preventing lost opportunities caused by delayed or missing responses.
 
 ---
 
-## 🎯 Objetivos do projeto
+## 🧠 How the Workflow Operates
 
-- Aumentar a retenção de leads  
-- Melhorar a experiência no primeiro contato  
-- Reduzir tempo de resposta  
-- Automatizar o pré-atendimento comercial  
-- Apoiar o time humano com leads já qualificados  
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- **N8N** – Orquestração dos fluxos de automação  
-- **OpenAI** – Processamento de linguagem natural e geração de respostas  
-- **WhatsApp API** – Canal de comunicação com os leads  
-- **Triggers Web** – Integração com o site da empresa  
+- Lead capture through website triggers  
+- Automatic WhatsApp conversation initiation  
+- Intent recognition using AI (OpenAI)  
+- Dynamic lead qualification  
+- Intelligent routing based on user needs  
+- Scalable customer service without losing personalization  
 
 ---
 
-## 📸 Visão geral do workflow
+## 🎯 Project Goals
+
+- Increase lead retention  
+- Improve the first-contact experience  
+- Reduce response time  
+- Automate the commercial pre-sales process  
+- Support the human team with pre-qualified leads  
+
+---
+
+## 🛠️ Technologies Used
+
+- **N8N** – Automation workflow orchestration  
+- **OpenAI** – Natural language processing and response generation  
+- **WhatsApp API** – Communication channel with leads  
+- **Web Triggers** – Integration with the company website  
+
+---
+
+## 📸 Workflow Overview
 
 ![N8N Preview](https://raw.githubusercontent.com/GuGuerke/N8N-Leads-IA-Workflow/main/N8N%20Leads%20IA%20Worflow.png)
